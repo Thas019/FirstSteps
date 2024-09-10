@@ -1,5 +1,3 @@
-# FirstSteps
-A repository to document my learning journey, projects, and personal growth. Includes initial projects, notes, and insights
 # MyJourney
 
 Welcome to my GitHub repository! This is where I'll be documenting my projects, learning experiences, and personal growth.
